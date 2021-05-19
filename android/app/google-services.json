@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "299037742969",
+    "project_id": "deltashoestreatment",
+    "storage_bucket": "deltashoestreatment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299037742969:android:d842422431e4153db901a8",
+        "android_client_info": {
+          "package_name": "com.dst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299037742969-4hvrkavh0pt13h3nf27cahqqqn7hjeni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dst",
+            "certificate_hash": "089a9b7a2dfd26713e6d307b6a21161e6392577e"
+          }
+        },
+        {
+          "client_id": "299037742969-tn0231l4fsgpr6hjqltfi3vvucjdmj18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrwn3MQj-I2A1E6deJx37tQCZ93BdJWXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299037742969-tn0231l4fsgpr6hjqltfi3vvucjdmj18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
